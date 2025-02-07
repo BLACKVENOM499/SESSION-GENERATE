@@ -58,16 +58,17 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
+┃AKINDU MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+❶ || Creator = Akindu 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+❷ || WhattsApp Channel = 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+❸ || Owner = 
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
